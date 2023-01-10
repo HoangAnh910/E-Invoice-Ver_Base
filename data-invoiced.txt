@@ -1,0 +1,28 @@
+Sirius Cybernetics Corp. INVOICE
+Street 42
+Sirius Tau, CM
+Phone: (645) 089-1728 INVOICE # DATE
+2034 5/13/2021
+
+BILL TO CLIENT CODE TERMS
+Arthur Dent 564 Due Upon Receipt
+Acting Dent
+155 Country Lane
+Cottington, Cottingshire County, UK
+226 7709
+arthur.dent@actingdent.com
+
+DESCRIPTION QTY UNIT PRICE AMOUNT
+Marvin Service Fee 1                           200.00                                    200.00
+
+Labor: 5 hours at $175/hr 5                           175.00                                    875.00
+
+Client discount $100                                    100.00
+-
+-
+Thank you for your business! SUBTOTAL                        1,175.00
+TAX RATE 4.250%
+TAX                             49.94
+TOTAL $                1,224.94
+
+name, email address RPA Dev, RPADeveloper@uipath.com
